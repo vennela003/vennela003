@@ -88,35 +88,10 @@ Hello! I'm **Vennela**, a passionate Data Science student who loves exploring te
 
 ---
 
-## 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vennela003&theme=tokyonight&hide_border=true" width="75%" />
-</p>
 
----
+🌱 My Learning Roadmap
 
-## 📈 Contribution Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vennela003&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" width="100%" />
-</p>
-
----
-
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vennela003/vennela003/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation"/>
-</p>
-
-*To activate this animation, configure the GitHub Actions workflow to generate and publish the snake SVG to an `output` branch. Instructions: https://github.com/Platane/snk*
-
----
-
-## 🌱 My Learning Roadmap
-
-```mermaid
 flowchart TD
     A["💻 Programming"] --> B["🐍 Python"]
     A --> C["☕ Java"]
@@ -126,7 +101,11 @@ flowchart TD
     F --> G["🚀 Real World Projects"]
     E --> H["✨ Future Goals"]
     G --> H
-```
+
+    style A fill:#6C63FF,color:#fff
+    style D fill:#2575FC,color:#fff
+    style E fill:#8E44AD,color:#fff
+    style H fill:#00897B,color:#fff
 
 ---
 
