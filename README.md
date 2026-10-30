@@ -1,197 +1,104 @@
-# 🚀 Project Name
+# 👋 Hi, I'm a Data Science Student!
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=My%20Project&fontSize=45&fontColor=ffffff" width="100%" />
+### 💻 Data Science Enthusiast | Web Developer | Programmer
+
+I am a passionate Data Science student interested in programming, data analysis, and web development. I enjoy transforming ideas into practical projects and developing websites that solve real-world problems.
+
+- 🎓 Data Science Student
+- 💻 Knowledge of Java, Python, SQL, HTML and CSS
+- 🌐 Developed 4–5 websites as part of college-level projects
+- 🏢 Developed a website for **EEE STRAIDS, Pragati University, Surampalem**
+- 🚀 Interested in Data Science, Software Development and Full Stack Development
+- 🌱 Continuously learning new technologies and building projects
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python" />
 </p>
 
-<p align="center">
-  <b>A short and powerful description of your project</b>
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" />
+### Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
----
-
-## 📌 Table of Contents
-
-- [About the Project](#-about-the-project)
-- [Features](#-features)
-- [Project Architecture](#-project-architecture)
-- [Technologies Used](#-technologies-used)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Results and Visualization](#-results-and-visualization)
-- [Project Structure](#-project-structure)
-- [Future Enhancements](#-future-enhancements)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Contact](#-contact)
-
----
-
-## 🎯 About the Project
-
-Describe your project, its objectives, the problem it addresses, and its importance.
-
-### Objectives
-- Develop an effective solution.
-- Improve efficiency and performance.
-- Generate meaningful results.
-- Provide an accessible and user-friendly workflow.
-
----
-
-## ✨ Features
-
-| Feature | Description |
-|---|---|
-| ⚡ Performance | Efficient processing |
-| 📊 Visualization | Interactive data presentation |
-| 🔍 Analysis | Detailed analysis |
-| 🔒 Reliability | Consistent results |
-| 🛠️ Customization | Flexible configuration |
-
----
-
-## 🔄 Project Architecture
-
-```mermaid
-flowchart TD
-    A["Input"] --> B["Preprocessing"]
-    B --> C["Core Processing"]
-    C --> D["Analysis"]
-    D --> E["Visualization"]
-    E --> F["Output"]
-```
-
----
-
-## 🧰 Technologies Used
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux" />
-</p>
-
-- Programming language: Python
-- Version control: Git
-- Repository: GitHub
-- Development environment: VS Code
-
----
-
-## ⚙️ Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/USERNAME/REPOSITORY.git
-```
-
-Navigate to the project directory:
-
-```bash
-cd REPOSITORY
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## ▶️ Usage
-
-Run the project:
-
-```bash
-python main.py
-```
-
-Modify the configuration according to your requirements.
-
----
-
-## 📊 Results and Visualization
-
-Add your project screenshots, experimental results, graphs, or performance charts here.
-
-### Sample results
-
-| Parameter | Result |
-|---|---|
-| Accuracy | Add value |
-| Processing time | Add value |
-| Performance | Add value |
-
-### Project screenshots
-
-<p align="center">
-  <img src="images/screenshot.png" width="80%" alt="Project screenshot" />
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-## 📁 Project Structure
+## 💼 Experience & Projects
 
-```text
-project/
-│
-├── README.md
-├── main.py
-├── requirements.txt
-├── data/
-├── images/
-├── results/
-└── src/
-```
+### 🌐 Website Development – EEE STRAIDS, Pragati University, Surampalem
 
----
+- Designed and developed a website for EEE STRAIDS.
+- Worked on website structure, layout and styling.
+- Applied HTML and CSS for front-end development.
+- Gained practical experience in developing a website for a university-related initiative.
 
-## 🚀 Future Enhancements
+### 🎓 College-Level Web Development Projects
 
-- Improve system performance.
-- Add additional analytical features.
-- Introduce interactive visualizations.
-- Expand project functionality.
+- Developed approximately 4–5 websites as part of academic projects.
+- Practiced responsive layouts and website design.
+- Improved problem-solving and programming skills through practical implementation.
 
 ---
 
-## 🤝 Contributing
+## 📚 Areas of Interest
 
-Contributions are welcome!
-
-1. Fork this repository.
-2. Create a new branch.
-3. Commit your changes.
-4. Submit a pull request.
-
----
-
-## 📜 License
-
-This project is distributed under the MIT License. Update this section if you use a different license.
+- 📊 Data Science and Data Analytics
+- 🤖 Machine Learning
+- 🐍 Python Programming
+- 🗄️ SQL and Database Management
+- 🌐 Web Development
+- 💡 Software Engineering
 
 ---
 
-## 📬 Contact
-
-**Project Developer:** Your Name
-
-- GitHub: https://github.com/USERNAME
-- Email: your-email@example.com
-
----
+## 📊 GitHub Statistics
 
 <p align="center">
-  ⭐ If you find this project useful, please consider giving it a star!
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
+---
+
+## 📈 Contribution Activity
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
+
+---
+
+## 🤝 Let's Connect!
+
+<p>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+📧 Email: YOUR_EMAIL
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my GitHub profile!
+  <br/>
+  <b>Building • Learning • Innovating</b>
 </p>
