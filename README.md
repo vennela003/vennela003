@@ -1,104 +1,162 @@
-# 👋 Hi, I'm a Data Science Student!
+<!-- ✨ ANIMATED HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:00C9FF&height=230&section=header&text=Vennela&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20Student%20%7C%20Web%20Developer&descSize=18&descAlignY=55" width="100%"/>
+</p>
 
-### 💻 Data Science Enthusiast | Web Developer | Programmer
+<!-- ⌨️ TYPING ANIMATION -->
+<p align="center">
+  <a href="https://github.com/vennela003">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Vennela+%F0%9F%91%8B;Data+Science+Student+%F0%9F%93%8A;Python+%7C+Java+%7C+SQL;Web+Developer+%F0%9F%8C%90;Turning+Ideas+Into+Projects+%E2%9C%A8" alt="Typing animation"/>
+  </a>
+</p>
 
-I am a passionate Data Science student interested in programming, data analysis, and web development. I enjoy transforming ideas into practical projects and developing websites that solve real-world problems.
+<h3 align="center">🚀 Welcome to my GitHub Universe!</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vennela003&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/vennela003?label=Followers&style=for-the-badge&color=blue" />
+</p>
+
+---
+
+## 🌸 About Me
+
+Hello! I'm **Vennela**, a passionate Data Science student who loves exploring technology, programming, and creative web development.
+
+💡 I believe in learning by building and turning ideas into real-world projects.
 
 - 🎓 Data Science Student
-- 💻 Knowledge of Java, Python, SQL, HTML and CSS
-- 🌐 Developed 4–5 websites as part of college-level projects
-- 🏢 Developed a website for **EEE STRAIDS, Pragati University, Surampalem**
-- 🚀 Interested in Data Science, Software Development and Full Stack Development
-- 🌱 Continuously learning new technologies and building projects
+- 🐍 Python and Java Programmer
+- 🗄️ SQL and Database Enthusiast
+- 🌐 Frontend Web Developer
+- 💻 Developed 4–5 college-level websites
+- 🏢 Built a website for EEE STRAIDS, Pragati University, Surampalem
+- 🚀 Interested in Data Science, AI and Machine Learning
 
 ---
 
-## 🛠️ Technical Skills
-
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python" />
-</p>
-
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css" />
-</p>
-
-### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
----
-
-## 💼 Experience & Projects
-
-### 🌐 Website Development – EEE STRAIDS, Pragati University, Surampalem
-
-- Designed and developed a website for EEE STRAIDS.
-- Worked on website structure, layout and styling.
-- Applied HTML and CSS for front-end development.
-- Gained practical experience in developing a website for a university-related initiative.
-
-### 🎓 College-Level Web Development Projects
-
-- Developed approximately 4–5 websites as part of academic projects.
-- Practiced responsive layouts and website design.
-- Improved problem-solving and programming skills through practical implementation.
-
----
-
-## 📚 Areas of Interest
-
-- 📊 Data Science and Data Analytics
-- 🤖 Machine Learning
-- 🐍 Python Programming
-- 🗄️ SQL and Database Management
-- 🌐 Web Development
-- 💡 Software Engineering
-
----
-
-## 📊 GitHub Statistics
+## ⚡ My Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,git,github,vscode&theme=dark" />
 </p>
+
+### 💻 Programming & Development
+
+| Technology | Proficiency area |
+|---|---|
+| 🐍 Python | Programming and Data Science |
+| ☕ Java | Object-oriented programming |
+| 🗄️ SQL | Database queries |
+| 🌐 HTML5 | Website structure |
+| 🎨 CSS3 | Styling and layouts |
+| 🔧 Git & GitHub | Version control |
 
 ---
 
-## 📈 Contribution Activity
+## 🎨 What I Build
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://img.shields.io/badge/Data%20Science-Analysis-8A2BE2?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web-Development-00BFFF?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Programming-Java-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
+
+### 🌐 Featured Experience
+
+**EEE STRAIDS – Pragati University, Surampalem**
+
+- Developed a website for EEE STRAIDS.
+- Worked on website structure and frontend design.
+- Used HTML and CSS.
+- Gained practical website development experience.
+
+### 🎓 Academic Projects
+
+- Developed 4–5 websites for college-level projects.
+- Practiced frontend development.
+- Applied programming concepts to practical projects.
+
+---
+
+## 📊 My GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vennela003&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vennela003&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🤝 Let's Connect!
+## 🔥 Contribution Streak
 
-<p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vennela003&theme=tokyonight&hide_border=true" width="75%" />
+</p>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vennela003&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" width="100%" />
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vennela003/vennela003/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation"/>
+</p>
+
+*To activate this animation, configure the GitHub Actions workflow to generate and publish the snake SVG to an `output` branch. Instructions: https://github.com/Platane/snk*
+
+---
+
+## 🌱 My Learning Roadmap
+
+```mermaid
+flowchart TD
+    A["💻 Programming"] --> B["🐍 Python"]
+    A --> C["☕ Java"]
+    B --> D["📊 Data Science"]
+    D --> E["🤖 Machine Learning"]
+    C --> F["🌐 Web Development"]
+    F --> G["🚀 Real World Projects"]
+    E --> H["✨ Future Goals"]
+    G --> H
+```
+
+---
+
+## 🎯 2026 Goals
+
+- [ ] Improve Python programming.
+- [ ] Master SQL and database concepts.
+- [ ] Build Data Science projects.
+- [ ] Learn Machine Learning.
+- [ ] Develop more advanced websites.
+- [ ] Contribute to open-source projects.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/vennela003">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 </p>
-
-📧 Email: YOUR_EMAIL
 
 ---
 
+<h3 align="center">💜 Thanks for Visiting My Profile!</h3>
+
 <p align="center">
-  ⭐ Thanks for visiting my GitHub profile!
-  <br/>
-  <b>Building • Learning • Innovating</b>
+  <i>"Dream. Code. Create. Repeat."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:00C9FF&height=120&section=footer" width="100%"/>
 </p>
