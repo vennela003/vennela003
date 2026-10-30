@@ -79,13 +79,6 @@ Hello! I'm **Vennela**, a passionate Data Science student who loves exploring te
 
 ---
 
-## 📊 My GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vennela003&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vennela003&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 
 ---
 
