@@ -86,12 +86,12 @@ Hello! I'm **Vennela**, a passionate Data Science student who loves exploring te
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vennela003&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+
 ---
 
+## 🌱 My Learning Roadmap
 
-
-🌱 My Learning Roadmap
-
+```mermaid
 flowchart TD
     A["💻 Programming"] --> B["🐍 Python"]
     A --> C["☕ Java"]
@@ -106,8 +106,8 @@ flowchart TD
     style D fill:#2575FC,color:#fff
     style E fill:#8E44AD,color:#fff
     style H fill:#00897B,color:#fff
+```
 
----
 
 ## 🎯 2026 Goals
 
